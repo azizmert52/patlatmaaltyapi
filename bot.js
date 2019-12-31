@@ -155,7 +155,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("✝ Erteds", {
+      .createChannel("✝ Pro Bey", {
         type: "voice"
       })
       .then(chan => {
