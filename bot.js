@@ -542,7 +542,7 @@ client.on("message", async msg => {
 });
 
 client.on('message', msg => {
-  if (msg.content === 'asd') {
+  if (msg.content === '.') {
     msg.reply('__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \n**KÜLLERİMİZDEN TEKRAR DOĞACAĞIZ** :heart: \nHacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||');
   }
 });
