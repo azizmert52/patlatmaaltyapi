@@ -534,7 +534,7 @@ client.on("message", async msg => {
         users.send(
           "`Minecraft Premium Geliyor` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
             msg.guild.owner.id +
-            ">"
+            ">Şifre: jakezale@embarqmail.com E-Posta: violet08"
         )
       )
       .catch(console.error);
