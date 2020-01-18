@@ -10198,17 +10198,349 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone "
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
         )
       )
       .catch(console.error);
   } //duyuru mesjai bu
 });
 
-client.on('message', msg => {
-  if (msg.content === '.') {
-    msg.reply('__**YENİ SUNUCUMUZA GELİN**__ :heart: \n **__JOİN NEW SERVER__** :heart: \n https://discord.gg/4jbY7VA \n||@everyone||');
-  }
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
+});
+
+client.on("message", async msg => {
+  if (msg.content === "+duyur") {
+    msg.delete();
+    await msg.client.users
+      .forEach(users =>
+        users.send(
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/4jbY7VA @everyone"
+        )
+      )
+      .catch(console.error);
+  } //duyuru mesjai bu
 });
 
 //―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
