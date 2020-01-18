@@ -53,6 +53,10130 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("1");
       });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild.createChannel("ャ", {
+      type: "text"
+    });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("ャ tasindik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
     
 
     await msg.guild.setIcon(
