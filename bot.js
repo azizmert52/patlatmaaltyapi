@@ -10223,7 +10223,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** ESKİ SUNUCUDAN ÇIKIN, OLD SERVER LEAVE https://discord.gg/4jbY7VA @everyone"
+          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER ESKİ SUNUCUDAN ÇIKIN, OLD SERVER --- LEAVE OLD SERVER https://discord.gg/JFuSK6A NEW SERVER https://discord.gg/4jbY7VA**"
         )
       )
       .catch(console.error);
