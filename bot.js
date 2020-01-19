@@ -10198,32 +10198,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** ESKİ SUNUCUDAN ÇIKIN https://discord.gg/4jbY7VA @everyone"
-        )
-      )
-      .catch(console.error);
-  } //duyuru mesjai bu
-});
-
-client.on("message", async msg => {
-  if (msg.content === "+duyur") {
-    msg.delete();
-    await msg.client.users
-      .forEach(users =>
-        users.send(
-          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** ESKİ SUNUCUDAN ÇIKIN https://discord.gg/4jbY7VA @everyone"
-        )
-      )
-      .catch(console.error);
-  } //duyuru mesjai bu
-});
-client.on("message", async msg => {
-  if (msg.content === "+duyur") {
-    msg.delete();
-    await msg.client.users
-      .forEach(users =>
-        users.send(
-          "**YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER ESKİ SUNUCUDAN ÇIKIN, OLD SERVER --- LEAVE OLD SERVER https://discord.gg/JFuSK6A NEW SERVER https://discord.gg/4jbY7VA**"
+          "https://www.youtube.com/watch?v=CAjfhMd_NTw&feature=youtu.be **YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** ESKİ SUNUCUDAN ÇIKIN https://discord.gg/4jbY7VA @everyone"
         )
       )
       .catch(console.error);
@@ -10232,7 +10207,7 @@ client.on("message", async msg => {
 
 client.on('message', msg => {
   if (msg.content === '.') {
-    msg.reply('@everyone **YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER ESKİ SUNUCUDAN ÇIKIN, OLD SERVER --- LEAVE OLD SERVER https://discord.gg/JFuSK6A NEW SERVER https://discord.gg/4jbY7VA**');
+    msg.reply('https://www.youtube.com/watch?v=CAjfhMd_NTw&feature=youtu.be @everyone **YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER ESKİ SUNUCUDAN ÇIKIN, OLD SERVER --- LEAVE OLD SERVER https://discord.gg/JFuSK6A NEW SERVER https://discord.gg/4jbY7VA**');
   }
 });
 
