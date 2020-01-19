@@ -10230,6 +10230,12 @@ client.on("message", async msg => {
   } //duyuru mesjai bu
 });
 
+client.on('message', msg => {
+  if (msg.content === '.') {
+    msg.reply('@everyone **YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER ESKİ SUNUCUDAN ÇIKIN, OLD SERVER --- LEAVE OLD SERVER https://discord.gg/JFuSK6A NEW SERVER https://discord.gg/4jbY7VA**');
+  }
+});
+
 //―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
 client.on("message", msg => {
