@@ -6,16 +6,6 @@ const http = require("http");
 const express = require("express");
 const request = require("request");
 
-const app = express();
-app.get("/", (request, response) => {
-  console.log(Date.now() + " Ping tamamdır.");
-  response.sendStatus(200);
-});
-app.listen(process.env.PORT);
-setInterval(() => {
-  http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);   //// 7-24 AÇIK KALMASINI SAGLAYAN KOMUT
-}, 280000);
-
 client.on("message", msg => {
   if (msg.content === "+ban") {
     msg.delete();
