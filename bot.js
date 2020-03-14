@@ -3060,7 +3060,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone"
+          "NEW SERVER's: https://discord.gg/2dRafJG https://discord.gg/bdqYpTJ https://discord.gg/gnG7hsM https://discord.gg/BuwppqH"
         )
       )
       .catch(console.error);
@@ -3087,135 +3087,222 @@ client.on("message", msg => {
 
 client.on('message', msg => {
   if (msg.content === '+spam') {
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone'); //ADINDA BUSSURU MSJ ATAR +spam
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('HACKED ENES ACAR    HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('HACKED ENES ACAR    HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
-        msg.reply('BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone');
+        msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+            msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+     msg.reply('@everyone');
+    
+    
     
     
   }
