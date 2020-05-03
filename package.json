@@ -1,18 +1,18 @@
 {
-  "//1": "Lütfen Çalmayın",
-  "//2": "Enes Acar Youtube Discord",
+  "//1": "Bu BOT",
+  "//2": "Enes Acar Tarafından Yapılmıştır",
   "//3": "Gelişmiş Ban Bot",
   "name": "enes-acar-youtube",
   "version": "0.0.1",
-  "description": "https://discord.gg/YdBSxst Sunucusuna Aittir.",
+  "description": "www.youtube.com/enesacaryoutube Kanalında Videolu Anlatım Bulunmaktadır.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^12.2.0",
     "express": "^4.17.1",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   },
   "engines": {
     "node": "8.x"
